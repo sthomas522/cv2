@@ -129,6 +129,42 @@ urlcolor: blue
 
 > Independent Consulting:  Performed multiple statistical analyses and maintained an Access data base for Healthcare Performance Consulting. The database was used to produce a standard set of reports on a monthly basis.
 
+# Skills
+
+\begin{itemize}
+\setlength\itemsep{-0.5em}
+\item Statistical Computation
+\item Bayesian Analysis:  Markov Chain Monte Carlo, Hamiltonian Monte Carlo
+\item R, Python, Stan, PyMC, C++, SQL, Azure Databricks, Tensorflow, Tableau, AWS Cloud, EMR, PySpark
+\end{itemize}
+
+# PUBLICATIONS
+
+Thomas, S. and Tu, W. (2022). *Riemannian Monte Carlo*. In Wiley StatsRef: Statistics Reference Online (eds N. Balakrishnan, T. Colton, B. Everitt, W. Piegorsch, F. Ruggeri and J.L. Teugels). doi:10.1002/9781118445112.stat08392
+
+Thomas, S. and Tu, W. (2020). *Hamiltonian Monte Carlo*. In Wiley StatsRef: Statistics Reference Online (eds N. Balakrishnan, T. Colton, B. Everitt, W. Piegorsch, F. Ruggeri and J.L. Teugels). doi:10.1002/9781118445112.stat08243
+
+Thomas, S. & Tu, W. (2021) *Learning Hamiltonian Monte Carlo in R*, The American Statistician, DOI: 10.1080/00031305.2020.1865198
+
+Green, Brice and Thomas, Samuel, *Inference and Prediction of Stock Returns using Multilevel Models* (August 31, 2019). Available at SSRN: https://ssrn.com/abstract=3411358 or http://dx.doi.org/10.2139/ssrn.3411358
+
+## **In Progress**
+
+Thomas, S. and Tu, W. 2020.  *An R package for Bayesian Multivariate Generalized Additive Models*.
+
+# Talks
+
+*A Bayesian Analytical Software Based on Hamiltonian Monte Carlo*. Regenstrief Institute, 12/4/2019. https://www.youtube.com/watch?v=sBA3lA0Nht0
+
+*Using Fourier Series to Model Daily Seasonal Patterns of Redemptions*.   Capital Group Companies, Data Science Interest Group, 2018
+
+*Improving Capacity and Financial Planning, a Guide to Business Forecasting with Alteryx.*  Inspire 2016 Alteryx Conference, San Diego, CA.
+
+*Predicting At-Risk Plans Using the C5 Algorithm*.  Capital Group Companies, Data Science Interest Group, 2015
+
+*UseR 2012 at Vanderbilt University.*  UseR 2012 Vanderbilt University.
+
+
 # Software developed
 
 **hmclearn**:  CRAN. An R package to fit statistical models with Hamiltonian Monte Carlo.  https://cran.r-project.org/web/packages/hmclearn/index.html
@@ -136,7 +172,6 @@ urlcolor: blue
 **bayesGAM**:  CRAN. An R package to fit semiparametric regression models using Hamiltonian Monte Carlo.  https://cran.r-project.org/web/packages/bayesGAM/index.html
  
 **mlts**:  Proprietary. An R package to automatically develop forecasts and perform cross-validation for bottoms-up forecast models.  Internal package for Capital Group Companies.
- 
 
 # Employment
 
@@ -169,18 +204,8 @@ urlcolor: blue
 
 > 2006-2022
 > 1-10 hours/week
+> Clients include:  Medscape/WebMD, Healthcare Performance Consulting, and Arks32 
  
-*Independent Consulting*
-
-> From 2006
-
-> Clients:  Medscape/WebMD, Healthcare Performance Consulting, and Arks32 
-
-> Provided statistical support for Medscape/WebMD for study design and sample size recommendations
-
-
-
-
 <!-- *Integration Engineer* -->
 
 <!--  >  Hurco Companies \hfill 2000--2005 -->
@@ -194,7 +219,7 @@ urlcolor: blue
 
 *Co-instructor, Biostatistics*
 
-> Indiana University April 2024. Two guest lectures for a PhD class on Generalized Linear Models
+> Indiana University Two guest lectures for Advanced GLM class \hfill Apr-2024
 
 > Indiana University \hfill 2019
 
@@ -212,42 +237,6 @@ Courses taught:
 \item Math 135 Finite Math
 \end{itemize}
   
-
-# PUBLICATIONS
-
-Thomas, S. and Tu, W. (2022). *Riemannian Monte Carlo*. In Wiley StatsRef: Statistics Reference Online (eds N. Balakrishnan, T. Colton, B. Everitt, W. Piegorsch, F. Ruggeri and J.L. Teugels). doi:10.1002/9781118445112.stat08392
-
-Thomas, S. and Tu, W. (2020). *Hamiltonian Monte Carlo*. In Wiley StatsRef: Statistics Reference Online (eds N. Balakrishnan, T. Colton, B. Everitt, W. Piegorsch, F. Ruggeri and J.L. Teugels). doi:10.1002/9781118445112.stat08243
-
-Thomas, S. & Tu, W. (2021) *Learning Hamiltonian Monte Carlo in R*, The American Statistician, DOI: 10.1080/00031305.2020.1865198
-
-Green, Brice and Thomas, Samuel, *Inference and Prediction of Stock Returns using Multilevel Models* (August 31, 2019). Available at SSRN: https://ssrn.com/abstract=3411358 or http://dx.doi.org/10.2139/ssrn.3411358
-
-## **In Progress**
-
-Thomas, S. and Tu, W. 2020.  *An R package for Bayesian Multivariate Generalized Additive Models*.
-
-# Skills
-
-\begin{itemize}
-\setlength\itemsep{-0.5em}
-\item Statistical Computation
-\item Bayesian Analysis:  Markov Chain Monte Carlo, Hamiltonian Monte Carlo
-\item R, Python, Stan, PyMC, C++, SQL, Azure Databricks, Tensorflow, Tableau, AWS Cloud, EMR, PySpark
-\end{itemize}
-
-# Talks
-
-*A Bayesian Analytical Software Based on Hamiltonian Monte Carlo*. Regenstrief Institute, 12/4/2019. https://www.youtube.com/watch?v=sBA3lA0Nht0
-
-*Using Fourier Series to Model Daily Seasonal Patterns of Redemptions*.   Capital Group Companies, Data Science Interest Group, 2018
-
-*Improving Capacity and Financial Planning, a Guide to Business Forecasting with Alteryx.*  Inspire 2016 Alteryx Conference, San Diego, CA.
-
-*Predicting At-Risk Plans Using the C5 Algorithm*.  Capital Group Companies, Data Science Interest Group, 2015
-
-*UseR 2012 at Vanderbilt University.*  UseR 2012 Vanderbilt University.
-
 
 
 
