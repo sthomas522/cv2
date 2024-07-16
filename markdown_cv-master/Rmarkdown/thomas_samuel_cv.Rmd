@@ -42,6 +42,8 @@ urlcolor: blue
 
  > Guidewire Software \hfill 2022--present
  
+ > Working with internal actuaries to develop predictive modeling capabilities to help insurers properly reserve for bodily injury claims. This project involves developing an injury severity model as well as litigation likelihood models. I have developed several models using scikit-learn, xgboost, and catboost with customized data preprocessing.
+ 
  > Completed redesign and implementation of a risk model for cyber catastrophe events for the Cyence product. This model aligns risk of attack to a combination of historical experience, cyber expert judgment, and customer feedback. Improved the computational efficiency of this model from a runtime of 12 hours for 10k simulations to 40 minutes using coarse-grained parallelism and vectorized numpy calculations in AWS EMR.
  
  > Lead catastrophe modeler responsible for Mass Ransomware and Mass Data Breach model development. Use PyMC to develop a Bayesian Generalized Linear Mixed Effects model with random intercepts for industry categorization. PyMC uses Hamiltonian Monte Carlo, an advanced Bayesian MCMC technique, to fit regression models. 
