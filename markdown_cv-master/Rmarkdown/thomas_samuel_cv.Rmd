@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "CV"
 author: Samuel J Thomas
 #orcid: "orcid.org/0000-0002-9577-6885"
-jobtitle: "Principal Data Scientist"
+jobtitle: "Data Scientist"
 address: "Address:  70 W Clear Lake Ln, Westfield IN 46074"
 fontawesome: yes
 email: samuel.thomas522@gmail.com
@@ -38,11 +38,26 @@ urlcolor: blue
 
 # Employment
 
+*Data Scientist*
+
+ > General Services Administration \hfill Aug 2024--present
+ 
+ > Lead Data Scientist on project assigning 13k GSA employees to their nearest possible duty station from President Trump's Return to Office Executive Order. This project combines data from Human Resources, Public Building Services, and geographical data from Arcgis. At the request of Human Resources, I am using R software to allocate personnel based on capacity and other employment characteristics such as job rank. 
+ 
+ > Developed a data model in Python and SQL to combine data
+from disparate data sources including Accounting Transactions, Federal Procurement data, and agency Budget data. The purpose of this data model is to extract insights into Information Technology costs and spend in the federal government. This model has been presented to the A-suite and approved for further development.
+
+ > Developed and successfully pitched a proposed Datathon (similar to a hackathon for data) topic on estimating the financial risk of natural catastrophe
+hazards to the Public Building Services organization within GSA. This dataset combines publicly available data from the federal real properties data with FEMA’s natural hazard risk model and financial measures per building, including revenue and expenses.
+
+ > Led a project to automatically identify types of Google scripts
+being developed across the agency based on structured data and unstructured text data. This effort identified 12 unique types of Google scripts based on a customized NLP algorithm based on spectral clustering. Contributed this algorithm to the publicly available GovCXAnalyzer package.
+
 *Principal Data Scientist*
 
- > Guidewire Software \hfill 2022--present
+ > Guidewire Software \hfill 2022--Aug 2024
  
- > Working with internal actuaries to develop predictive modeling capabilities to help insurers properly reserve for bodily injury claims. This project involves developing an injury severity model as well as litigation likelihood models. I have developed several models using scikit-learn, xgboost, and catboost with customized data preprocessing.
+ > Worked with internal actuaries to develop predictive modeling capabilities to help insurers properly reserve for bodily injury claims. This project involved developing an injury severity model as well as litigation likelihood models. I have developed several models using scikit-learn, xgboost, and catboost with customized data preprocessing.
  
  > Completed redesign and implementation of a risk model for cyber catastrophe events for the Cyence product. This model aligns risk of attack to a combination of historical experience, cyber expert judgment, and customer feedback. Improved the computational efficiency of this model from a runtime of 12 hours for 10k simulations to 40 minutes using coarse-grained parallelism and vectorized numpy calculations in AWS EMR.
  
@@ -60,7 +75,6 @@ urlcolor: blue
 
  > Capital Group Companies \hfill 2008, 2010--2022
 
- 
  > Developed the forecasting methodology and implementation for the American Funds Service Company budget process. This process has been adapted and reproduced for multiple departments in the organization. I developed regression models with ARMA errors using Rob Hyndman's forecast package in R. These models related macroeconomic indicators to fund account volumes and were used in various scenario analysis. This forecast model was consistently accurate within 3% of account volumes. 
  
  > Developed a custom forecast package in R called mlts (multi-level time series) to facilitate the annual forecast process. This package automatically combines hierarchies of low level forecast. This approach facilitated business adjustments on any of hundreds of forecasts for use in the budget process.  
@@ -125,7 +139,7 @@ urlcolor: blue
 
 *Co-instructor, Biostatistics*
 
-> Indiana University \hfill 2019
+> Indiana University \hfill 2019, 2024
 
 > PBHL-B 646 Advanced Generalized Linear Models
 
